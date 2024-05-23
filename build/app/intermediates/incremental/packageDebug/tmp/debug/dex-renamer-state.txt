@@ -1,0 +1,4 @@
+#Thu May 23 13:04:30 PKT 2024
+base.0=/Users/apple/Downloads/regular/Flutter Practise Projects/My Repo/calculator_flutter_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
